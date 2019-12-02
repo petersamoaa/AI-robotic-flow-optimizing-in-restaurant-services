@@ -1,4 +1,4 @@
-# AI-robotic-flow-optimizing-in-resturant-services
+# AI-robotic-flow-optimization-in-restaurant-services
 This project is about find the optimal path for the intelligent robot to serve many tables in restaurant taking into account quick serving 
 This project is dedicated for one robot in one resturant (specific environment) that move form one table to other table respecting the possible ways from tables. 
 The main target here is to build such an algorithm that make this robot move between the tables in an optimal way in order to serve the tables in an optimal way
